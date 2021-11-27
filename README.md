@@ -4,9 +4,11 @@
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 > Thanks to everyone who starred Yukino, That is the greatest pleasure we have !
 
-#Owners Harem 🤍😍
-<a href="https://t.me/waifuNetBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/waifuNetwork"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+## Owner's Harem 🤍😍
+<p align="left">
+ <a href="https://t.me/waifuNetBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+ <a href="https://t.me/waifuNetwork"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+</p>
 
 <img align="right" src="https://wallpaperaccess.com/full/4226688.jpg">
 
