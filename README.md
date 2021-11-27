@@ -1,6 +1,7 @@
 <h1 align="center"><b><b>🤍Yukino Yukinoshita🤍</b></b></h1> 
  
-#This Is The `OLD` version Of Yukino Bot <img src="https://img.shields.io/badge/Maintained?%20No-black.svg?logo=anilist">
+#This Is The `OLD` version Of Yukino Bot 
+<img src="https://img.shields.io/badge/Maintained?%20No-black.svg?logo=Apache">
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 > Thanks to everyone who starred Yukino, That is the greatest pleasure we have !
 
