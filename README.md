@@ -1,5 +1,6 @@
 <h1 align="center"><b><b>🤍Yukino Yukinoshita🤍</b></b></h1> 
  
+#This Is The `OLD` version Of Yukino Bot
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 
 <p align="center">
