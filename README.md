@@ -3,7 +3,7 @@
 #This Is The `OLD` version Of Yukino Bot
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 
-<img align="right" src="https://vsthemes.org/uploads/olives/love920s1/d6/a1d66b44ada9e254d7bdc0431e06690f.jpg">
+<img align="right" src="https://wallpaperaccess.com/full/4226688.jpg">
 
 <p align="center">
     <a href="https://python.org">
