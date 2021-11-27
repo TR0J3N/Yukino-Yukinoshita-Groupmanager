@@ -12,7 +12,7 @@
     </a> <br>
     <img src="https://img.shields.io/github/license/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="LICENSE">
     <img src="https://img.shields.io/github/contributors/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Contributors">
-    <img src="https://img.shields.io/github/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
+    <img src="https://img.shields.io/github/size/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Repository Size"> <br>
     <img src="https://img.shields.io/badge/python-3.9-green?style=for-the-badge&logo=appveyor" alt="Python Version">
     <img src="https://img.shields.io/github/issues/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Issues">
     <img src="https://img.shields.io/github/forks/TR0J3N/Yukino-Yukinoshita-Groupmanager?style=for-the-badge&logo=appveyor" alt="Forks">
