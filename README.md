@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://python.org">
-        <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
+        <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg(https://python.org)" alt="made-with-python">
     </a>
     <a href="https://GitHub.com/TR0J3N">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
