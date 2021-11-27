@@ -3,6 +3,8 @@
 #This Is The `OLD` version Of Yukino Bot
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 
+<img align="right" src="https://vsthemes.org/uploads/olives/love920s1/d6/a1d66b44ada9e254d7bdc0431e06690f.jpg">
+
 <p align="center">
     <a href="https://python.org">
         <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="built-with-py">
@@ -21,7 +23,7 @@
 </p>
 
 
-## Deployment Dont Deploy on this URL `Deploy on Brach`
+## Deployment Dont Deploy on this URL `Deploy on Branch`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TR0J3N/Yukino-Yukinoshita-Groupmanager)
 
