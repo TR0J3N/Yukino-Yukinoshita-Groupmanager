@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://python.org">
-        <img src="[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)>
+        <img src=""https://img.shields.io/github/license/Sadew451/Natsuki?style=for-the-badge&logo=star" alt="LICENSE">
     </a>
     <a href="https://GitHub.com/TR0J3N">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
