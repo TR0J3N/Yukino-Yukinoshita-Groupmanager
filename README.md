@@ -1,7 +1,7 @@
 <h1 align="center"><b><b>🤍Yukino Yukinoshita🤍</b></b></h1> 
  
 #This Is The `OLD` version Of Yukino Bot 
-<img src="https://img.shields.io/badge/Maintained?%20No.svg"><img src ="https://simpleicons.org/icons/telegram.svg">
+<img src="https://img.shields.io/badge/Join-Telegram%20Channel-black.svg?logo=Telegram">
 ## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 > Thanks to everyone who starred Yukino, That is the greatest pleasure we have !
 
