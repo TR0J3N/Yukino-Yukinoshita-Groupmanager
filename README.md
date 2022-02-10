@@ -54,5 +54,5 @@ $ python3 -m Yukino
 [+] The Yukino won't run without setting the mandatory vars.
 ```
 
-If There Any Problem You Can Contact Us At [Here](https://t.me/troj3n) or simply submit a pull request on the readme.
+If There Any Problem You Can Contact Me At [Here](https://t.me/troj3n) or simply submit a pull request on the readme.
 
