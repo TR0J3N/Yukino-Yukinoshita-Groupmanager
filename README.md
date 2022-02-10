@@ -2,16 +2,8 @@
  
 #This Is The `OLD` version Of Yukino Bot 
 <img src="https://img.shields.io/badge/Maintained-NO-success.svg?logo=apache">
-## New Version Of [Yukino Yukinoshita](https://t.me/Yukinonthecutebot) is `private`. 
 > Thanks to everyone who starred Yukino, That is the greatest pleasure we have !
 
-## Owner's Harem 🤍😍
-<p align="left">
- <a href="https://t.me/waifuNetBots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-black.svg?logo=Telegram"></a>
-</p>
-<p align="left">
-  <a href="https://t.me/waifuNetwork"><img src="https://img.shields.io/badge/Join-Telegram%20Group-white.svg?logo=telegram"></a>
-</p>
 
 <img align="right" src="https://wallpaperaccess.com/full/4226688.jpg">
 
@@ -62,5 +54,5 @@ $ python3 -m Yukino
 [+] The Yukino won't run without setting the mandatory vars.
 ```
 
-If There Any Problem You Can Contact Us At [Waifu Net Support](https://t.me/waifuNetBots) or simply submit a pull request on the readme.
+If There Any Problem You Can Contact Us At [Here](https://t.me/troj3n) or simply submit a pull request on the readme.
 
